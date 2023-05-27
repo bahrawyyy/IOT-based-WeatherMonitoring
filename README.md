@@ -12,6 +12,22 @@ The core functionality of the project is centered around the NodeMCU, which acts
 - Data transmission from NodeMCU to Firebase for reliable storage and easy data retrieval
 - Integration with Blynk IoT platform for real-time weather data monitoring and control
 - User-friendly Blynk mobile application and web dashboard for visualization and interaction  
+
+  
+
+
+  
+![WhatsApp Image 2023-05-22 at 23 11 17](https://github.com/bahrawyyy/IOT-based-WeatherMonitoring/assets/71684437/9d3e8aeb-3174-49c1-8b64-c2459c31633d)
+![WhatsApp Image 2023-05-17 at 12 39 38](https://github.com/bahrawyyy/IOT-based-WeatherMonitoring/assets/71684437/c513f8aa-c94f-492d-b8f9-eceee8d9ae36)
+![WhatsApp Image 2023-05-26 at 17 00 03](https://github.com/bahrawyyy/IOT-based-WeatherMonitoring/assets/71684437/120a9823-a3ed-41e8-8a92-e8941fc6fb6a)  
+  
+  
+
+# Videos
+- Here is a video of hardware running:  
+https://drive.google.com/file/d/18gV9Qwgb22_uw9RDDLv9rGhjqO-2OSEZ/view?usp=sharing  
+- A simple video that describes the project in more details:  
+https://drive.google.com/file/d/1AA966coDbh1kisffIPblSRR4k5kUstOt/view?usp=sharing  
   
   
 
